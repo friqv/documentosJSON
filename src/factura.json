@@ -1,0 +1,51 @@
+{
+  "Factura": {
+    "BusinessContactInformation": {
+      "BusinessName": "(000) 000 - 000",
+      "StreetAddress": "Dirección",
+      "CityStateZip": "Ciudad, Estado, Código Postal",
+      "Email": "Email",
+      "Website": "Website",
+      "AddLogo": "Logo",
+      "BillTo": {
+        "ClientName": "Nombre del Cliente",
+        "StreetAddress": "Dirección del Cliente",
+        "CityStateZip": "Ciudad, Estado, Código Postal del Cliente"
+      },
+      "ShipTo": {
+        "ClientName": "Nombre del Envío",
+        "StreetAddress": "Dirección de Envío",
+        "CityStateZip": "Ciudad, Estado, Código Postal de Envío"
+      },
+      "InvoiceDetails": {
+        "InvoiceNumber": "#12345",
+        "InvoiceDate": "mm/dd/yyyy",
+        "Terms": "Net 30",
+        "DueDate": "mm/dd/yyyy"
+      },
+      "InvoiceNumber": "Número de Factura",
+      "Date": "Fecha",
+      "TermsOfPayment": "Términos de Pago"
+    },
+    "DescriptionOfGoodsOrServices": {
+      "ProductService1": {
+        "Description": "Describe tu producto o servicio",
+        "QtyHrs": "0",
+        "Rate": "0",
+        "Amount": "0"
+      },
+      "ProductService2": {
+        "Description": "Describe tu producto o servicio",
+        "QtyHrs": "0",
+        "Rate": "0",
+        "Amount": "0"
+      },
+      "AddItem": {
+        "CustomerMessage": "Gracias por su compra. Por favor devuelva esta factura con el pago.",
+        "SalesTax": "0.00",
+        "Shipping": "0.00",
+        "Total": "$0.00"
+      }
+    }
+  }
+}

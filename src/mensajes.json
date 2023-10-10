@@ -1,0 +1,19 @@
+{
+  "Mensaje": {
+    "Remitente": {
+      "Nombre": "Alfredo Reino",
+      "Email": "alf@ibium.com"
+    },
+    "Destinatario": {
+      "nombre": "Bill Clinton",
+      "email": "presidente@whitehouse.gov"
+    },
+    "asunto": "Hola Bill",
+    "texto": {
+      "parrafo": [
+        "¿Hola qué tal...",
+        "..."
+      ]
+    }
+  }
+}
